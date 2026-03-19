@@ -4,25 +4,21 @@
 -사용한플랫폼: -C#, .NET Windows Forms, Visual Studio, GitHub
 -사용한컨트롤:-Label, TextBox, ListBox, Button
 사용한기술과구현한기능:
--
--
--
--
--
+- Visual Studio를 이용하여 UI 디자인, Trim함수를 이용한 공백 제거, 수업중 가르쳐 주신 Time으로 시간값 구현,
+-KeyDown 이벤트를 사용하여 Enter로도 전송이 가능하도록 구현,
+-출력창 인덱스 값으로 삭제 버튼 로직 예외 구현
 -
 -실습중에구현한기능들설명
 -
 -
 ## 실행화면(과제1)
 -과제1코드의실행스크린샷![과제1 실행화면](img/screenshot-1.png)
+
 -과제내용
--
--
--
+-GITHUB에 커밋과 푸시하기
 -구현내용과기능설명
--
--
--
+-Mylistbox를 중앙에 mytextbox를 mylisetbox아래에 배치함
+전송 버튼을 누르면 textbox에 입력한 내용이 listbox로 들어가 표시되고 textbox의 내용은 깨끗하게 지워집니
 -추가내용이많아지면리스트박스에스크롤바가자동으로생기고스크롤된다.
 ## 실행화면(과제2)
 -과제2코드의실행스크린샷![과제2 실행화면](img/screenshot-2.png)
